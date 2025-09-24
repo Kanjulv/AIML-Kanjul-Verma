@@ -34,6 +34,11 @@ The notebook will execute each step sequentially, from installing dependencies t
 Files
 delivery_agent_simulation.ipynb: The main Google Colab notebook containing all the code, experiments, and analysis.
 
+<img width="570" height="540" alt="image" src="https://github.com/user-attachments/assets/2086c53c-3a27-4396-a913-611f42de4955" />
+<img width="553" height="544" alt="image" src="https://github.com/user-attachments/assets/c51918a8-ad01-412c-9025-d45d8c3df265" />
+
+
+
 Analysis and Discussion
 The notebook provides a detailed analysis of when each algorithm is most effective. In essence:
 
